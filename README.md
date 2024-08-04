@@ -51,4 +51,5 @@ Key Activities
 
 OUTPUT:
 
-![Uploading WhatsApp Image 2024-08-04 at 20.40.32.jpeg…]()
+![WhatsApp Image 2024-08-04 at 20 40 32](https://github.com/user-attachments/assets/26e9cd41-2cb6-456f-88ae-a58d53fb2d60)
+
