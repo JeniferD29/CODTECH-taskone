@@ -4,7 +4,7 @@ Company: CODTECH IT SOLUTIONS
 
 ID: CT08DS4048
 
-Domain: Cyber security and Ethical Hacking
+Domain: Cybersecurity & Ethical Hacking
 
 Duration: JULY to AUGUST 2024
 
